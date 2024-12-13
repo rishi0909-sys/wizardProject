@@ -606,7 +606,7 @@ nav button {
   }
   .elem-part2 img{
       padding-left:30px;
-      height:57%;
+      height:53%;
       /* right: 0; */
   }
   .black{
@@ -622,7 +622,7 @@ nav button {
       color: black;
   }
   #section3 .between{
-      height: 35vh;
+      height: 55vh;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -665,6 +665,7 @@ nav button {
   }
   .Case-Study{
     /* background-color: red; */
+      overflow-y:hidden ;
       height: 8vh;
       padding: 20px 32px;
       display: flex;
