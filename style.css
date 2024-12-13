@@ -519,7 +519,7 @@ nav button {
     overflow-y: hidden;
   }
   #section2 .services {
-    height: 5vh;
+    height: 8vh;
     padding: 11px 11px;
     display: flex;
     align-items: center;
@@ -527,7 +527,7 @@ nav button {
   }
   .services h3 {
     background-color: #9ae975;
-    padding: 10px 30px;
+    padding: 8px 14px;
     font-size: 20px;
     border-radius: 10px;
     margin-right: 20px;
@@ -599,14 +599,14 @@ nav button {
   .elem-part1 h2{
       padding: 10px;
       border-radius: 10px;
-      font-size: 16px;
+      font-size: 13px;
       background-color: #9AE975;
       font-weight: 500;
       width: 68%;
   }
   .elem-part2 img{
       padding-left:30px;
-      height:70%;
+      height:62%;
       /* right: 0; */
   }
   .black{
@@ -632,7 +632,7 @@ nav button {
       align-items: center;
       justify-content: space-between;
       background-color:rgb(226, 225, 225);
-      height:30vh;
+      height:35vh;
       width:90vw;
       padding: 11px;
       border-radius: 10px;
