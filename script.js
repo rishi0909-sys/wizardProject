@@ -45,7 +45,6 @@ let tl2 = gsap.timeline({
     start:"top 55%",
     end:"top -50",
     scrub:2,
-    markers:true,
   },
 })
 tl2.from(".services",{
