@@ -599,14 +599,14 @@ nav button {
   .elem-part1 h2{
       padding: 10px;
       border-radius: 10px;
-      font-size: 13px;
+      font-size: 11px;
       background-color: #9AE975;
       font-weight: 500;
       width: 68%;
   }
   .elem-part2 img{
       padding-left:30px;
-      height:62%;
+      height:57%;
       /* right: 0; */
   }
   .black{
