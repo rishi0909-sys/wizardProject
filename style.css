@@ -463,8 +463,8 @@ nav button {
     width: 40vw;
   }
   .center-part1 h1 {
-    line-height: 20px;
-    font-size: 18px;
+    line-height: 15px;
+    font-size: 14px;
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
@@ -472,7 +472,7 @@ nav button {
     overflow-y: hidden;
   }
   .center-part1 p {
-    padding-top: 9px;
+    padding-top: 4px;
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
@@ -488,13 +488,13 @@ nav button {
     font-style: normal;
     color: white;
     border-radius:10px;
-    padding: 12px 10px;
+    padding: 7px 10px;
     font-size:9px;
     border: none;
     cursor: pointer;
   }
   .center-part2 img {
-    height: 40%;
+    height: 35%;
     right: 5;
     position: absolute;
   }
@@ -505,10 +505,10 @@ nav button {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 20px;
+    padding: 18px 18px;
   }
   .section1bottom img {
-    height:19px;
+    height:13px;
     gap: 20px;
     filter: grayscale(100%);
   }
