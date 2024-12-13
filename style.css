@@ -638,6 +638,7 @@ nav button {
       border-radius: 10px;
   }
   .text-content{
+       overflow-y: hidden;
       width:200px;
       text-align: left;
       font-family: "Space Grotesk", sans-serif;
