@@ -383,7 +383,7 @@ nav button {
   font-size:24px;
   color: #9AE975;
 }
-@media (max-width:500px){
+@media (max-width:600px){
   *{
     overflow-x: hidden;
     margin: 0;
