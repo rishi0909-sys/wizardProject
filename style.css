@@ -472,7 +472,11 @@ nav button {
     overflow-y: hidden;
   }
   .center-part1 p {
+<<<<<<< HEAD
+    padding-top: 9px;
+=======
     padding-top: 4px;
+>>>>>>> 3ec8dd2 (done)
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
@@ -508,8 +512,13 @@ nav button {
     padding: 18px 18px;
   }
   .section1bottom img {
+<<<<<<< HEAD
+    height:19px;
+    gap: 20px;
+=======
     height:14px;
     gap: 12px;
+>>>>>>> 3ec8dd2 (done)
     filter: grayscale(100%);
   }
   #section2 {
@@ -581,12 +590,12 @@ nav button {
   .elem-part1 h4{
       display: flex;
       align-items:center;
-      font-size: 13px;
+      font-size: 10px;
       font-weight: 500;
       gap:20px
   }
   .elem-part1 h4 i{
-      padding: 7px;
+      padding: 4px;
       background-color:black;
       color: white;
       border-radius: 50%;
@@ -606,7 +615,11 @@ nav button {
   }
   .elem-part2 img{
       padding-left:30px;
+<<<<<<< HEAD
       height:87%;
+=======
+      height:64%;
+>>>>>>> 3ec8dd2 (done)
       /* right: 0; */
   }
   .black{
