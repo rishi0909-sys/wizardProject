@@ -502,6 +502,7 @@ nav button {
   .section1bottom {
     height: 10vh;
     width: 94vw;
+    background-color:red;
     /* padding-top: 200px; */
     display: flex;
     justify-content: space-between;
