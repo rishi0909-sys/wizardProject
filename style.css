@@ -509,7 +509,7 @@ nav button {
   }
   .section1bottom img {
     height:14px;
-    gap: 15px;
+    gap: 12px;
     filter: grayscale(100%);
   }
   #section2 {
