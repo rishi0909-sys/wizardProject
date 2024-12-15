@@ -462,7 +462,7 @@ nav button {
   .center-part2 {
     background-color:green;
     height: 40vh;
-    width: 60vw;
+    width: 40vw;
   }
   .center-part1 h1 {
     line-height: 15px;
@@ -497,7 +497,7 @@ nav button {
     cursor: pointer;
   }
   .center-part2 img {
-    height: 35%;
+    height: 65%;
     right: 5;
     position: absolute;
   }
