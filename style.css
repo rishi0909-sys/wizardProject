@@ -453,6 +453,7 @@ nav button {
     justify-content: space-evenly;
   }
   .center-part1 {
+    padding-top:30px;
        background-color:red;
     overflow-y: hidden;
     height: 40vh;
@@ -460,7 +461,6 @@ nav button {
   
   }
   .center-part2 {
-    background-color:green;
     height: 40vh;
     width: 40vw;
   }
