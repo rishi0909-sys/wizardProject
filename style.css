@@ -470,10 +470,10 @@ nav button {
     font-weight: 500;
     font-style: normal;
     overflow-y: hidden;
-    padding-bottom: 13px;
+    padding-bottom: 5px;
   }
   .center-part1 p {
-    padding-top:33px;
+    padding-top:13px;
     padding-top: 4px;
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
