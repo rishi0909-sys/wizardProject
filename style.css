@@ -453,8 +453,6 @@ nav button {
     justify-content: space-evenly;
   }
   .center-part1 {
-    padding-top:30px;
-       background-color:red;
     overflow-y: hidden;
     height: 40vh;
     width: 45%;
@@ -465,7 +463,7 @@ nav button {
     width: 40vw;
   }
   .center-part1 h1 {
-    line-height: 15px;
+    line-height: 19px;
     font-size: 14px;
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
@@ -474,7 +472,7 @@ nav button {
     overflow-y: hidden;
   }
   .center-part1 p {
-    padding-top: 9px;
+    padding-top:39px;
     padding-top: 4px;
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
@@ -497,7 +495,7 @@ nav button {
     cursor: pointer;
   }
   .center-part2 img {
-    height: 59%;
+    height: 57%;
     right: 5;
     position: absolute;
   }
