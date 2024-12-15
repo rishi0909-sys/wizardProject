@@ -460,9 +460,9 @@ nav button {
   
   }
   .center-part2 {
-       background-color:green;
+    background-color:green;
     height: 40vh;
-    width: 40vw;
+    width: 60vw;
   }
   .center-part1 h1 {
     line-height: 15px;
