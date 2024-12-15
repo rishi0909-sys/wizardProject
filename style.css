@@ -93,7 +93,7 @@ nav button {
   font-weight: 300;
   font-style: normal;
   font-size: 40px;
-  width: 95%;
+  min-width: 75%;
 }
 .center-part1 button {
   background-color: black;
@@ -454,7 +454,7 @@ nav button {
   }
   .center-part1 {
     overflow-y: hidden;
-    height: 50vh;
+    height: 40vh;
     width: 45%;
   
   }
@@ -463,7 +463,7 @@ nav button {
     width: 40vw;
   }
   .center-part1 h1 {
-    line-height: 19px;
+    line-height: 15px;
     font-size: 14px;
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
@@ -472,7 +472,9 @@ nav button {
     overflow-y: hidden;
   }
   .center-part1 p {
+    padding-top: 9px;
     padding-top: 4px;
+    padding-top: 9px;
     font-family: "Space Grotesk", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
@@ -494,7 +496,7 @@ nav button {
     cursor: pointer;
   }
   .center-part2 img {
-    height: 45%;
+    height: 35%;
     right: 5;
     position: absolute;
   }
@@ -508,10 +510,12 @@ nav button {
     padding: 18px 18px;
   }
   .section1bottom img {
-    height:15px;
+    height:19px;
     gap: 20px;
     height:14px;
     gap: 12px;
+    height:19px;
+    gap: 20px;
     filter: grayscale(100%);
   }
   #section2 {
@@ -608,7 +612,6 @@ nav button {
   }
   .elem-part2 img{
       padding-left:30px;
-      height:87%;
       height:64%;
       /* right: 0; */
   }
