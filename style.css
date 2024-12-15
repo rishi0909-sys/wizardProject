@@ -592,7 +592,7 @@ nav button {
       border-radius: 50%;
   }
   .elem-part2 {
-      /* background-color: cornflowerblue; */
+/*       background-color: cornflowerblue; */
       height:100%;
       width: 50%;
   }
@@ -606,7 +606,7 @@ nav button {
   }
   .elem-part2 img{
       padding-left:30px;
-      height:67%;
+      height:87%;
       /* right: 0; */
   }
   .black{
