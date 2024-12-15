@@ -508,8 +508,8 @@ nav button {
     padding: 18px 18px;
   }
   .section1bottom img {
-    height:10px;
-    gap: 20px;
+    height:14px;
+    gap: 15px;
     filter: grayscale(100%);
   }
   #section2 {
